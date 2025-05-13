@@ -2,9 +2,9 @@
 
 ## I'm Hélio.
 
-:computer: Eu sou Back-end developer. <br/> 
+:computer: Eu sou Back-end. <br/> 
 :house_with_garden: Eu sou do Brazil. <br/>
-:books: Atualmente estou aprofundando em JavaScript, C, C++, java e python. <br/>
+:books: Atualmente estou aprofundando em Nodejs, C++, C#. <br/>
 
 
 ## About me
